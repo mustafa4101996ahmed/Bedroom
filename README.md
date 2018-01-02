@@ -2,13 +2,13 @@
 Maya
 
 ## Introduction
-For the Assignment 4 of the 3D Modelling and Animation course, I chose to animate my Bedroom. Due to certain complications I was not able to animate the bedroom as initially proposed in my Proposal, which was to animate the blanket falling onto the bed and placing itself. The main reason why this was not achieved was because it did not make sense as a random blanket fell from the ceiling. Instead, I’ve chosen to take a more realistic approach in terms of the animation itself and the lighting. My animation has been prepared using Key Frame Animations
+For the Assignment 4 of the 3D Modelling and Animation course, I chose to animate my Bedroom. Due to certain complications I was not able to animate the bedroom as initially proposed in my Proposal, which was to animate the blanket falling onto the bed and placing itself. The main reason why this was not achieved was because it did not make sense as a random blanket fell from the ceiling. Instead, Iâ€™ve chosen to take a more realistic approach in terms of the animation itself and the lighting. My animation has been prepared using Key Frame Animations
 
 ## The Message
-The message that I’ve tried to show was how the mood of the room can change with the direction of the sun, which is from a warmer feel to a cooler feel at night.
+The message that Iâ€™ve tried to show was how the mood of the room can change with the direction of the sun, which is from a warmer feel to a cooler feel at night.
 
 ### Animation Techniques Applied
-- Staging: I’ve used it to direct the user’s attention and make it clear what's of greatest importance to my scene.
+- Staging: Iâ€™ve used it to direct the userâ€™s attention and make it clear what's of greatest importance to my scene.
 - Timing: The timing of the animation simulates a day passing by from the perspective of the room.
 
 ### Lighting
@@ -25,3 +25,4 @@ For the Lighting I have used several elements:
 - Final Gather for the Physical Sun and Sky.
 - Size was set to HD540
 - Individual images were rendered of various timings throughout the day to show the changes in lighting
+ 
